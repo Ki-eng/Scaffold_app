@@ -1,16 +1,20 @@
-# scaffold_app
+# Flutter Scaffold Widget App with Image
 
-A new Flutter project.
+A simple Flutter app that demonstrates the use of the `Scaffold` widget to structure the basic layout of the app. The app features a top app bar, a black background, and an image displayed at the center of the screen.
 
-## Getting Started
+## 📋 Features
 
-This project is a starting point for a Flutter application.
+- **Scaffold Widget**: Organizes the layout structure of the app with a body, app bar, and background color.
+- **Background Color**: The background of the app is set to black for a clean and simple appearance.
+- **Image Widget**: Displays an image at the center of the screen, loaded from local assets (`images/office-computer-screen.jpg`).
+- **Center Widget**: Ensures that the image is centered on the screen.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter Framework**
+- **Dart Programming Language**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-scaffold-widget-app.git
